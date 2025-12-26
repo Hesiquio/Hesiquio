@@ -1,10 +1,50 @@
-- 👋 Hi, I’m @Hesiquio
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# 👋 Hola, soy Hesiquio
 
-<!---
-Hesiquio/Hesiquio is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 🚀 Desarrollador de Software | Apasionado por la Tecnología y el Aprendizaje Continuo
+
+Soy un entusiasta del desarrollo con un enfoque en crear soluciones eficientes y escalables. Me encanta explorar nuevas tecnologías y contribuir a proyectos que generen un impacto positivo.
+
+---
+
+### 🛠️ Mi Stack Tecnológico
+
+| Categoría | Tecnologías |
+| :--- | :--- |
+| **Lenguajes** | ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) |
+| **Frontend** | ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) |
+| **Herramientas** | ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+
+---
+
+### 🔍 En qué estoy trabajando actualmente
+
+- 🌱 **Aprendiendo:** Profundizando en arquitecturas de microservicios y Cloud Computing (AWS/Azure).
+- 👀 **Interesado en:** Inteligencia Artificial, Automatización y Open Source.
+- 💞️ **Colaboración:** Busco participar en proyectos de impacto social o herramientas para desarrolladores.
+- 🔭 **Proyecto actual:** [Nombre de tu proyecto principal o "Mejorando mi portafolio"]
+
+---
+
+### 📊 Mis Estadísticas de GitHub
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Hesiquio&show_icons=true&theme=radical" alt="Estadísticas de Hesiquio" />
+</p>
+
+---
+
+### 📫 Conectemos
+
+¿Tienes alguna idea interesante o simplemente quieres saludar? ¡Escríbeme!
+
+* 📧 **Email:** [Tu correo aquí]
+* 💼 **LinkedIn:** [Tu link de LinkedIn aquí]
+* 🌐 **Portfolio:** [Tu sitio web si tienes uno]
+
+---
+
+<p align="center">
+  "El código es poesía en movimiento." 💻✨
+</p>
+
