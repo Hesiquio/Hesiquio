@@ -1,12 +1,12 @@
-# 👋 Hola, soy Hesiquio
+# Hola, soy Hesiquio
 
-### 🚀 Desarrollador de Software | Apasionado por la Tecnología y el Aprendizaje Continuo
+### Desarrollador de Software | Apasionado por la Tecnología y el Aprendizaje Continuo
 
 Soy un entusiasta del desarrollo con un enfoque en crear soluciones eficientes y escalables. Me encanta explorar nuevas tecnologías y contribuir a proyectos que generen un impacto positivo.
 
 ---
 
-### 🛠️ Mi Stack Tecnológico
+### Mi Stack Tecnológico
 
 | Categoría | Tecnologías |
 | :--- | :--- |
@@ -19,10 +19,10 @@ Soy un entusiasta del desarrollo con un enfoque en crear soluciones eficientes y
 
 ### 🔍 En qué estoy trabajando actualmente
 
-- 🌱 **Aprendiendo:** Profundizando en arquitecturas de microservicios y Cloud Computing (AWS/Azure).
+- 🌱 **Aprendiendo:** Profundizando en laravel
 - 👀 **Interesado en:** Inteligencia Artificial, Automatización y Open Source.
 - 💞️ **Colaboración:** Busco participar en proyectos de impacto social o herramientas para desarrolladores.
-- 🔭 **Proyecto actual:** [Nombre de tu proyecto principal o "Mejorando mi portafolio"]
+- 🔭 **Proyecto actual:** Classroomclash, plataforma para que los docentes puedan aumentar la competitividad en el aula.
 
 ---
 
@@ -31,16 +31,6 @@ Soy un entusiasta del desarrollo con un enfoque en crear soluciones eficientes y
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hesiquio&show_icons=true&theme=radical" alt="Estadísticas de Hesiquio" />
 </p>
-
----
-
-### 📫 Conectemos
-
-¿Tienes alguna idea interesante o simplemente quieres saludar? ¡Escríbeme!
-
-* 📧 **Email:** [Tu correo aquí]
-* 💼 **LinkedIn:** [Tu link de LinkedIn aquí]
-* 🌐 **Portfolio:** [Tu sitio web si tienes uno]
 
 ---
 
