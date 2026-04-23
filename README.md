@@ -26,14 +26,6 @@ Soy un entusiasta del desarrollo con un enfoque en crear soluciones eficientes y
 
 ---
 
-### 📊 Mis Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hesiquio&show_icons=true&theme=radical" alt="Estadísticas de Hesiquio" />
-</p>
-
----
-
 <p align="center">
   "El código es poesía en movimiento." 💻✨
 </p>
