@@ -34,19 +34,6 @@ Soy un apasionado de la tecnología con un enfoque híbrido entre el desarrollo 
 
 ---
 
-### 📊 Estadísticas de GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Hesiquio&show_icons=true&theme=radical" alt="Estadísticas de Hesiquio" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesiquio&layout=compact&theme=radical" alt="Lenguajes más usados" />
-</p>
-
----
-
-### 📫 Conectemos
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tu-usuario)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/AhKinTech)
-
 <p align="center">
   <i>"El código es poesía en movimiento."</i> 💻✨
 </p>
